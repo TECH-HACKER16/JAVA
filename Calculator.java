@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.lang.math;
 
 public class Calculator{
 
