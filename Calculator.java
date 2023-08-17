@@ -22,8 +22,7 @@ public class Calculator{
 
             System.out.println("Input first number :");
             x = sc.nextInt();
-    
-            //Scanner sc = new Scanner(System.in);
+
             System.out.println("Input Second number");
             y = sc.nextInt();
     
