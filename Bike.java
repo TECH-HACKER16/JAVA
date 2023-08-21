@@ -1,3 +1,4 @@
+//Adding values to Objects using Method
 public class Bike
 {
     String colour ;
