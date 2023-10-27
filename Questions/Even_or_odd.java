@@ -1,6 +1,6 @@
 package Questions;//comment this line if error occurs
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Even_or_odd 
 {
